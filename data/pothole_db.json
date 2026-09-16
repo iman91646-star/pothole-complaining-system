@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "usr_admin_authorized",
+      "name": "Admin1234",
+      "email": "admin1234@potholetrack.gov",
+      "passwordHash": "53331157579199937a269a0316069c42cc3bcd6ca72c26d957153c080ba2a34c1de32efd50ef9306b6916e662659abdd17ef1439a663c8e218533ee7e9894b02",
+      "salt": "edd9f82ff0b4f543347a71dfc5a3591f",
+      "role": "admin",
+      "createdAt": "2026-09-16T06:29:19.352Z"
+    }
+  ],
+  "complaints": [],
+  "complaintHistory": [],
+  "notifications": [],
+  "complaintCounter": 0
+}

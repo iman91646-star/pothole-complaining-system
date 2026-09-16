@@ -1,0 +1,7 @@
+{
+  "name": "PotholeTrack",
+  "description": "Pothole and Road Damage Complaint Management System with role-based user and administrative portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
